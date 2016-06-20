@@ -1,0 +1,28 @@
+name: Leaders
+favicon: null
+layout_spectrum: 0.0166261347476393
+typography_spectrum: 0.7317299586720765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9156371965073049
+  lightness: 0.08512377669103444
+  saturation: 0.8487848967779428
+  rhythmicContrast: 0.34906350658275187
+purpose: []
